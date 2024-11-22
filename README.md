@@ -28,7 +28,7 @@ https://github.com/HimanshuChaudhery/Weather-App.git
 cd Weather-App
 ```
 
-### 2️⃣ Run the Game
+### 2️⃣ Run the Application
 Ensure you have Python installed, then run:
 ```bash
 python main.py
