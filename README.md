@@ -41,7 +41,7 @@ python main.py
 ---
 
 ## 📸 Screenshots
-![weather-app](https://github.com/HimanshuChaudhery/Weather-App/blob/main/Weather-App.jpg)
+![weather-app](./Weather-App.jpg)
 
 ---
 
