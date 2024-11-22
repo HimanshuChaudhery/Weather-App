@@ -1,5 +1,7 @@
 # 🌤️Weather-App
+
 A simple Weather Application implemented in Python with GUI using the Tkinter library where we will fetch the Weather Data using Open Weather API.
+
 ---
 
 ## 📸 Features
