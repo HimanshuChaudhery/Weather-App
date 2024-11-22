@@ -41,10 +41,14 @@ python Weather-App.py
 ---
 
 ## 📸 Screenshots
-![weather-app]()
+![weather-app](https://github.com/HimanshuChaudhery/Weather-App/blob/main/Weather-App.jpg)
 
 ---
 
 ## 💡 Future Improvements
+- Add a feature to display a multi-day forecast with temperature highs, lows, and weather conditions.
+- Show the sunrise and sunset times for the selected location.
+- **Themes**: Add light and dark mode options for better user experience.
+- Implement GPS-based location detection to show weather data for the user's current location automatically.
 
 
