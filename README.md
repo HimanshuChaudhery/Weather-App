@@ -31,7 +31,7 @@ cd Weather-App
 ### 2️⃣ Run the Game
 Ensure you have Python installed, then run:
 ```bash
-python Weather-App.py
+python main.py
 ```
 
 ### 3️⃣ Search!
